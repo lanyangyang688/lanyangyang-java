@@ -1,7 +1,6 @@
 # java
 Lan Yangyang's Java Learning Journey
 ##   java-stage-one
-Lan Yangyang's Java Learning Journey
 Java beginner practice reference: Han Shunping and Qiangshen's Java exercise problems
 ### 📚 Covered Topics  
 #### 1. Han Shunping (HSP) Java  
@@ -15,7 +14,7 @@ Java beginner practice reference: Han Shunping and Qiangshen's Java exercise pro
 #### 3. Exam paper  
 - In-class synchronized basic coding exercises  
 - Complete implementation of the final comprehensive project, including integrated logic, multi-class collaboration, and advanced array applications
-- ##   java-stage-two
+##   java-stage-two
 ### 🛠 Runtime Environment  
 - JDK: JDK 8 / JDK 17  
 - Development Tool: IntelliJ IDEA  
