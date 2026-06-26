@@ -41,7 +41,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 - Access rules between outer class and inner class (mutual access of private members)
 - Instantiation syntax of different inner classes
 - Anonymous inner class: common usage with interfaces/abstract classes
--. Application scenarios & memory structure features of inner classes
+- Application scenarios & memory structure features of inner classes
 
 ### Chapter2 Enums and Annotations
 #### 1.Enum
