@@ -43,7 +43,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 - Anonymous inner class: common usage with interfaces/abstract classes
 - Application scenarios & memory structure features of inner classes
 
-### Chapter2 Enums,Annotations and Reflection
+### Chapter2 Enums And Annotations
 #### 1.Enum
 - Definition characteristics & basic syntax of enumeration class
 - Common methods of Enum: values(), valueOf(), ordinal()
@@ -56,12 +56,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 - Custom annotation writing & parsing logic
 - Built-in core annotations: @Override, @Deprecated, @SuppressWarnings
 - Application scenarios: framework markup, parameter verification, code generation
-#### 3.Reflection
-- Core reflection entry class: Class, three ways to get Class object
-- Reflection operation: constructors, member variables, member methods
-- Access private members by reflection, turn off access check
-- Advantages & disadvantages of reflection
-- Application scenarios: Spring IoC, ORM mapping, framework bottom layer
+
 #### 4.Exercise
 
 ### Chapter3 Exception
@@ -72,7 +67,12 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 ### Chapter5 Collection
 
 ##   java-stage-three
-
+#### 1.Reflection
+- Core reflection entry class: Class, three ways to get Class object
+- Reflection operation: constructors, member variables, member methods
+- Access private members by reflection, turn off access check
+- Advantages & disadvantages of reflection
+- Application scenarios: Spring IoC, ORM mapping, framework bottom layer
 
 ### 🛠 Runtime Environment  
 - JDK: JDK 8 / JDK 17  
