@@ -70,6 +70,29 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 
 ### Chapter3 Common Class
 #### 1.Wrapper Class
+- Wrap 8 primitive types into reference types, support autoboxing & unboxing
+- Enable collection storage, provide type conversion/parsing methods; Integer cache range -128~127
+#### 2. String / StringBuffer / StringBuilder
+- String: Immutable, constant pool stored, modify creates new object
+- StringBuffer: Mutable, synchronized/thread-safe, low performance (multi-thread)
+- StringBuilder: Mutable, non-thread-safe, high efficiency (single-thread, preferred)
+#### 3. Math
+- Static math utility class (cannot instantiate)
+- Core: abs, max/min, random, round, pow; constants PI, E
+#### 4. Date & Time (Date/Calendar/LocalDate)
+- Date: Timestamp record, awkward API, unsafe
+- Calendar: Manual date field adjustment, complex
+- JDK8 LocalDate/LocalDateTime: Immutable, thread-safe, clean API, recommended
+#### 5. System
+- System static utility class
+- Common: currentTimeMillis, arraycopy, exit, getProperty
+#### 6. Arrays
+- Array operation tool class
+- Core: sort, binarySearch, copyOf, toString, equals
+#### 7. BigInteger & BigDecimal
+- BigInteger: Arbitrary-precision integer, avoid long overflow
+- BigDecimal: Precise decimal calculation, fix float/double precision loss, for finance
+#### 8.Exercise
 
 ### Chapter4 Collection
 
