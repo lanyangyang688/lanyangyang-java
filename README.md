@@ -118,6 +118,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 - Double-column collection, stores key-value pairs
 - Keys are unique, values allow duplication
 - Separated branch from Collection interface, unrelated to single-column collection system
+#### 6.Exercise
 
 ##   java-stage-three
 #### 1.Reflection
