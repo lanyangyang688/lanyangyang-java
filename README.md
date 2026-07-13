@@ -137,7 +137,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 
 ##   java-stage-three
 Advanced Java Deep Learning Based on Tank Battle Game
-### Chapter 1: Tank Battle (I)
+### Chapter 1: Tank Battle 
 - Core pre-knowledge: Java drawing coordinate system, Graphics drawing class, pixel rendering principles
 - Event handling mechanism: Listener-driven logic for keyboard control
 - First-phase development: Realize basic tank rendering and tank movement control
@@ -151,7 +151,7 @@ Advanced Java Deep Learning Based on Tank Battle Game
 - IO classification: Node stream & processing stream, byte stream & character stream
 - Common stream classes: File stream, buffered stream, object serialization stream, conversion stream, print stream, Properties configuration class
 - IO application in Tank Battle (Version 0.5 & 0.6): Realize game data persistence storage
-### Chapter 4: Tank Battle (III)
+### Chapter 4: Tank Battle (Update)
 Complete the second stage of the project iteration, integrate IO persistence and multi-thread operation to finish the complete version of Tank Battle game, and summarize the whole Java basic learning phase.
 ### 🛠 Runtime Environment  
 - JDK: JDK 8 / JDK 17  
