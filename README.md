@@ -120,8 +120,23 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 - Separated branch from Collection interface, unrelated to single-column collection system
 #### 6.Exercise
 
-### Chapter5 
+### Chapter5 Generics
+#### Basic Generic Syntax
+- Placeholder conventions: <E, T, K, V>
+- Instantiation: Specify concrete reference types only (primitives are not allowed); Java 7+ supports diamond operator <>()
+- Mechanism: Type erasure after compilation, generic info does not exist at runtime
+#### Four Kinds of Custom Generics
+- Generic Class: Generic parameters declared after class name, valid for the whole class
+- Generic Interface: Generic defined on interface; implementation classes can fix or inherit generics
+- Generic Method: Independent generic declaration, prioritized over class generics
+- Static Generic Method: Must declare generics separately, cannot use class-level generics
+#### Generic Inheritance & Wildcards
+-  Unbounded wildcard, represents any type
+-  extends T: Upper bound wildcard (T and its subclasses)
+-  super T: Lower bound wildcard (T and its superclasses)
+
 ##   java-stage-three
+
 #### 1.Reflection
 - Core reflection entry class: Class, three ways to get Class object
 - Reflection operation: constructors, member variables, member methods
