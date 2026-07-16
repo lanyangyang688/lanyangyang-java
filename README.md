@@ -137,21 +137,22 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 
 ##   java-stage-three
 Advanced Java Deep Learning Based on Tank Battle Game
-### Chapter 1: Tank Battle 
+### 📚 Covered Topics
+#### Chapter 1: Tank Battle 
 - Core pre-knowledge: Java drawing coordinate system, Graphics drawing class, pixel rendering principles
 - Event handling mechanism: Listener-driven logic for keyboard control
 - First-phase development: Realize basic tank rendering and tank movement control
-### Chapter 2: Multithreading Basics
+#### Chapter 2: Multithreading Basics
 - Core concepts: Program, process, thread; two ways to create threads (extends Thread / implements Runnable)
 - Thread lifecycle, common thread operation methods, daemon thread
 - Thread synchronization: synchronized lock, mutual exclusion lock, deadlock mechanism, lock release rules
 - Apply multithreading to optimize the running logic of Tank Battle (Version 0.3 & 0.4)
-### Chapter 3: Java IO Stream
+#### Chapter 3: Java IO Stream
 - File operation: File class creation, deletion, directory management and file attribute acquisition
 - IO classification: Node stream & processing stream, byte stream & character stream
 - Common stream classes: File stream, buffered stream, object serialization stream, conversion stream, print stream, Properties configuration class
 - IO application in Tank Battle (Version 0.5 & 0.6): Realize game data persistence storage
-### Chapter 4: Tank Battle (Update)
+#### Chapter 4: Tank Battle (Update)
 Complete the second stage of the project iteration, integrate IO persistence and multi-thread operation to finish the complete version of Tank Battle game, and summarize the whole Java basic learning phase.
 ### 🛠 Runtime Environment  
 - JDK: JDK 8 / JDK 17  
