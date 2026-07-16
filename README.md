@@ -121,16 +121,16 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 #### 6.Exercise
 
 ### Chapter5 Generics
-#### Basic Generic Syntax
+#### 1.Basic Generic Syntax
 - Placeholder conventions: <E, T, K, V>
 - Instantiation: Specify concrete reference types only (primitives are not allowed); Java 7+ supports diamond operator <>()
 - Mechanism: Type erasure after compilation, generic info does not exist at runtime
-#### Four Kinds of Custom Generics
+#### 2.Four Kinds of Custom Generics
 - Generic Class: Generic parameters declared after class name, valid for the whole class
 - Generic Interface: Generic defined on interface; implementation classes can fix or inherit generics
 - Generic Method: Independent generic declaration, prioritized over class generics
 - Static Generic Method: Must declare generics separately, cannot use class-level generics
-#### Generic Inheritance & Wildcards
+#### 3.Generic Inheritance & Wildcards
 -  Unbounded wildcard, represents any type
 -  extends T: Upper bound wildcard (T and its subclasses)
 -  super T: Lower bound wildcard (T and its superclasses)
